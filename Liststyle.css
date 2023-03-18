@@ -8,12 +8,9 @@ body {
 }
 
 .Title {
-  padding: 4px;
   width: 200px;
   background-color: #eeeeee;
-  border: none;
   box-shadow: 2px 2px 2px #bbbbbb;
-  cursor: pointer;
   font-family: "Times New Roman", Times, serif;
   font-size: 100px;
   border-radius: 5x #bbbbbb;
