@@ -15,7 +15,8 @@ body {
   box-shadow: 2px 2px 2px #bbbbbb;
   cursor: pointer;
   font-family: "Times New Roman", Times, serif;
-  font-size: 125px;
+  font-size: 100px;
+  border-radius: 4px #bbbbbb;
 }
   
 }
