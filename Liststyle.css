@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(173, 36%, 96%);
+}
+
+.li {
+    list-style: lower-alpha;
+    border-radius: 4px;
+}
+
+.Title {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 2px 2px 2px #bbbbbb;
+  cursor: pointer;
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 4px #bbbbbb;
+}
+
+.summary {
+    padding: 4px;
+    width: 200px;
+    background-color: #eeeeee;
+    border: none;
+    box-shadow: 1px 1px 2px #bbbbbb;
+    cursor: pointer;
+  }
+  
+.p {
+    background-color: #eeeeee;
+    padding: 4px;
+    margin: 0;
+    box-shadow: 1px 1px 2px #bbbbbb;
+  }
+  
