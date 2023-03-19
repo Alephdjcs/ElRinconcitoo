@@ -8,12 +8,15 @@ body {
 }
 
 .tit {
-  width: 200px;
+  width: 600px;
   background-color: #eeeeee;
-  box-shadow: 2px 2px 2px #bbbbbb;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 100px;
-  border-radius: 5x #bbbbbb;
+  box-shadow: 5px 5px 5px #bbbbbb;
+  font-family: "Times New Roman", Times;
+  font-size: 80px;
+  border-radius: 100x #bbbbbb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
