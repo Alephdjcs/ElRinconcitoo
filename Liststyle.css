@@ -27,7 +27,7 @@ body {
     width: 200px;
     background-color: #acec81;
     border: none;
-    box-shadow: 1px 1px 2px #bbbbbb;
+    box-shadow: 5px 5px 5px #bbbbbb;
     cursor: pointer;
     font-family: "Times New Roman", Times;
   }
@@ -40,7 +40,7 @@ body {
     width: 200px;
     background-color: #acec81;
     border: none;
-    box-shadow: 1px 1px 2px #bbbbbb;
+    box-shadow: 5px 5px 5px #bbbbbb;
     cursor: pointer;
     font-family: "Times New Roman", Times;
   }
