@@ -33,10 +33,15 @@ body {
   }
   
 .p {
-    background-color:#acec81;
     padding: 4px;
     margin: 0;
+    font-family: "Times New Roman", Times;
+    padding: 4px;
+    width: 200px;
+    background-color: #acec81;
+    border: none;
     box-shadow: 1px 1px 2px #bbbbbb;
+    cursor: pointer;
     font-family: "Times New Roman", Times;
   }
 
