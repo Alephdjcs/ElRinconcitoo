@@ -9,6 +9,9 @@ body {
     font-family: "Times New Roman", Times;
   }
 
+.detail {
+  padding: 4px;
+}
 .tit {
   width: 600px;
   background-color: #4CAF50;
