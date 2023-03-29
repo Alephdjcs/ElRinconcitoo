@@ -71,15 +71,20 @@ li:hover {
 }
 
 .content {
-    margin-top: 90px;
-    width: 470px;
+    margin-top: 100px;
+    width: 600px;
     background-color: #4CAF50;
     box-shadow: 10px 10px 10px #bbbbbb;
     font-family: "Times New Roman", Times;
     font-size: 80px;
-    color: #000000;
-    border-radius: 100px #fcfcfc;
+    color: #fffbfb;
+    border-radius: 100x #bbbbbb;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url(https://www.hotelbeachside.com/top-10-most-beautiful-beaches-in-honduras/images/cieneguitabeach1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
 }   
+ 
