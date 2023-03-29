@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Menu/Liststyle.css
 body {
     background-color: hsl(150, 68%, 90%);
 
@@ -56,9 +55,9 @@ body {
 
 
  
-ul {
+  ul {
     list-style-type: none;
-    margin: o;
+    margin: 10;
     padding: 0;
     overflow: hidden;
     position: fixed;
@@ -67,8 +66,12 @@ ul {
     width: 100%;
     background-color: #333;
     box-shadow: 10px 10px 10px #bbbbbb;
-
+    background-image: url(https://www.hotelbeachside.com/top-10-most-beautiful-beaches-in-honduras/images/cieneguitabeach1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
+
 li {
    float:left
 }
@@ -90,46 +93,10 @@ li:hover {
 }
 
 .content {
-    margin-top: 100px;
-    width: 600px;
-    background-color: #4CAF50;
-    box-shadow: 10px 10px 10px #bbbbbb;
-    font-family: "Times New Roman", Times;
-    font-size: 80px;
-    color: #000000;
-    border-radius: 100x #bbbbbb;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  
-}   
-
-  
-  background-image: url("https://goplaya.cr/archivos/IMG-20161105-WA0057.jpg");
-  background-size: cover; /* ajusta la imagen al tamaño del contenedor */
-  background-repeat: no-repeat; /* evita que se repita la imagen */
-  background-position: center center; /* centra la imagen en el contenedor */
-  backdrop-filter: blur ;
-  
-=======
-body {
-    background-color: hsl(150, 68%, 90%);
-
-}
-
-.lil {
-    list-style:circle;
-    border-radius: 4px;
-    font-family: "Times New Roman", Times;
-  }
-
-.detail {
-  padding: 4px;
-}
-.tit {
+  margin-top: 100px;
   width: 600px;
   background-color: #4CAF50;
-  box-shadow: 5px 5px 5px #bbbbbb;
+  box-shadow: 10px 10px 10px #bbbbbb;
   font-family: "Times New Roman", Times;
   font-size: 80px;
   color: #000000;
@@ -137,88 +104,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.summary:hover {
-  background-color: rgba(0, 0, 0, 0.7);
-  cursor: pointer;
-}
-.summary {
-    padding: 4px;
-    width: 150px;
-    background-color: #4CAF50;
-    border: none;
-    box-shadow: 5px 5px 5px #bbbbbb;
-    cursor: pointer;
-    font-family: "Times New Roman", Times;
-  }
-  
-.p {
-    padding: 4px;
-    margin: 0;
-    font-family: "Times New Roman", Times;
-    padding: 4px;
-    width: 200px;
-    background-color: #4CAF50;
-    border: none;
-    box-shadow: 5px 5px 5px #bbbbbb;
-    cursor: pointer;
-    font-family: "Times New Roman", Times;
-  }
- 
-ul {
-    list-style-type: none;
-    margin: o;
-    padding: 0;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #333;
-    box-shadow: 10px 10px 10px #bbbbbb;
-
-}
-li {
-   float:left
-}
-li a {
-    display:block;
-    color: #eee;
-    text-align: center;
-    padding: 14px;
-    text-decoration: none;
-}
-
-li:hover {
-    background-color: rgba(0,0,0,0.2);
-    cursor: pointer;
-}
-
-.active {
-    background-color: #4CAF50;
-}
-
-.content {
-    margin-top: 100px;
-    width: 600px;
-    background-color: #4CAF50;
-    box-shadow: 10px 10px 10px #bbbbbb;
-    font-family: "Times New Roman", Times;
-    font-size: 80px;
-    color: #000000;
-    border-radius: 100x #bbbbbb;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  
+  background-image: url(https://www.hotelbeachside.com/top-10-most-beautiful-beaches-in-honduras/images/cieneguitabeach1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;  
 }   
-
-  
-  background-image: url("https://goplaya.cr/archivos/IMG-20161105-WA0057.jpg");
-  background-size: cover; /* ajusta la imagen al tamaño del contenedor */
-  background-repeat: no-repeat; /* evita que se repita la imagen */
-  background-position: center center; /* centra la imagen en el contenedor */
-  backdrop-filter: blur ;
-  
->>>>>>> 21ed53f2c5072920a99aff34c834e0719dddf4ce:Start/Liststyle.css

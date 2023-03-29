@@ -4,7 +4,7 @@ body {
 
 ul {
     list-style-type: none;
-    margin: o;
+    margin: 10;
     padding: 0;
     overflow: hidden;
     position: fixed;
@@ -13,7 +13,10 @@ ul {
     width: 100%;
     background-color: #333;
     box-shadow: 10px 10px 10px #bbbbbb;
-
+    background-image: url(https://www.hotelbeachside.com/top-10-most-beautiful-beaches-in-honduras/images/cieneguitabeach1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 li {
    float:left
@@ -46,7 +49,10 @@ li:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    background-image: url(https://www.hotelbeachside.com/top-10-most-beautiful-beaches-in-honduras/images/cieneguitabeach1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
 }   
 
 
