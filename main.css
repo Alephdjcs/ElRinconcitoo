@@ -1,0 +1,59 @@
+body {
+    background-color: hsl(150, 68%, 90%);
+}
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    box-shadow: 10px 10px 10px #bbbbbb;
+    background-image: url(https://www.hotelbeachside.com/top-10-most-beautiful-beaches-in-honduras/images/cieneguitabeach1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+li {
+   float:left
+}
+li a {
+    display:block;
+    color: #eee;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: rgba(0,0,0,0.2);
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.content {
+    margin-top: 100px;
+    width: 600px;
+    box-shadow: 10px 10px 10px #bbbbbb;
+    font-family: "Times New Roman", Times;
+    font-size: 80px;
+    color: #ffffff;
+    border-radius: 100x #bbbbbb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://www.hotelbeachside.com/top-10-most-beautiful-beaches-in-honduras/images/cieneguitabeach1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}   
+
+
+
+
