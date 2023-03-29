@@ -1,0 +1,82 @@
+body {
+    background-color: hsl(150, 68%, 90%);
+
+}
+
+.detail {
+  padding: 4px;
+}
+
+.summary {
+    padding: 4px;
+    width: 150px;
+    background-color: #4CAF50;
+    border: none;
+    box-shadow: 5px 5px 5px #bbbbbb;
+    cursor: pointer;
+    font-family: "Times New Roman", Times;
+  }
+.summary:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+  cursor: pointer;  
+}  
+
+.p {
+    padding: 4px;
+    margin: 0;
+    font-family: "Times New Roman", Times;
+    padding: 4px;
+    width: 200px;
+    background-color: #4CAF50;
+    border: none;
+    box-shadow: 5px 5px 5px #bbbbbb;
+    cursor: pointer;
+    font-family: "Times New Roman", Times;
+  }
+
+ul {
+    list-style-type: none;
+    margin: o;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    box-shadow: 10px 10px 10px #bbbbbb;
+
+}
+
+li {
+   float:left
+}
+li a {
+    display:block;
+    color: #eee;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+li:hover {
+    background-color: rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.content {
+    margin-top: 90px;
+    width: 470px;
+    background-color: #4CAF50;
+    box-shadow: 10px 10px 10px #bbbbbb;
+    font-family: "Times New Roman", Times;
+    font-size: 80px;
+    color: #000000;
+    border-radius: 100px #fcfcfc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
